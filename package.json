@@ -30,5 +30,12 @@
     "dist",
     "README.md",
     "LICENSE"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coloringpagesdesign/cpd-js-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coloringpagesdesign/cpd-js-api/issues"
+  }
 }
