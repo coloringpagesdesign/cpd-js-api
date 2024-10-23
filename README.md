@@ -22,12 +22,13 @@ You can create printable coloring pages for kids and adults.
 4. Generate your API key from the developer dashboard
 
 ### 2. Installation
-bash
+```bash
 npm install coloringpages-api
-
+```
 or
+```bash
 yarn add coloringpages-api
-
+```
 
 ### 3. Basic Usage
 
