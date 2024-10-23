@@ -1,0 +1,34 @@
+{
+  "name": "coloring-pages-api",
+  "version": "1.0.0",
+  "description": "API wrapper for ColoringPagesDesign coloring page generation service",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "coloringpagesdesign",
+    "coloring",
+    "api",
+    "coloring-pages",
+    "wrapper"
+  ],
+  "author": "ColoringPagesDesign",
+  "homepage": "https://www.coloringpagesdesign.com",
+  "email": "support-api@coloringpagesdesign.com",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ]
+}
