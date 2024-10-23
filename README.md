@@ -2,8 +2,8 @@
 
 
 # ColoringPagesDesign API JavaScript Client
-
-A JavaScript wrapper for the ColoringPagesDesign API, providing easy access to coloring page designs and templates.
+You can create printable coloring pages for kids and adults.
+A JavaScript wrapper for the ColoringPagesDesign API, providing easy access to creating coloring page designs.
 
 ## Getting Started
 
@@ -43,10 +43,12 @@ console.log('Is image safe: ', coloringPage.isImageSafe)
 - Access to basic API endpoints
 - Rate limited/throttled requests
 - Perfect for testing and small projects
+- Watermark
 
 ### Paid Tier
 - Unlimited API requests
 - No rate limiting
+- No watermark
 
 ## Rate Limits
 
