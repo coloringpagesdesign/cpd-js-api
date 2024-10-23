@@ -1,4 +1,4 @@
-![Coloring Pages Design API](/images/vertical-image.png)
+<img src="/images/vertical-image.png" alt="Coloring Pages Design API" width="100%">
 
 
 # ColoringPagesDesign API JavaScript Client
@@ -25,14 +25,15 @@ yarn add coloringpages-api
 
 ### 3. Basic Usage
 
-javascript
+```javascript
 import ColoringPagesAPI from 'coloringpages-api';
 // Initialize the client
 const api = new ColoringPagesAPI('YOUR_API_KEY');
-// Get all designs
+// Request coloring page creation
 const coloringPage = await api.createColoringPage('SUBJECT HERE', 'STYLE HERE', 'COMPLEXITY HERE', 'VISIBILITY HERE');
 console.log('Result coloring page: ', coloringPage.imageUrl);
 console.log('Is image safe: ', coloringPage.isImageSafe)
+```
 
 
 
@@ -54,9 +55,9 @@ console.log('Is image safe: ', coloringPage.isImageSafe)
 | Free | 10             | 100         |
 | Paid | Unlimited      | Unlimited   |
 
-## Error Handling
+## Advanced Usage and Error Handling
 
-javascript
+```javascript
 try {
     const api = new ColoringPagesAPI('YOUR_API_KEY');
     const subject = 'butterfly'; // Whatever subject you want
@@ -73,6 +74,7 @@ try {
         console.error('API Error:', error.message);
     }
 }
+```
 
 ## Available Methods
 
