@@ -4,6 +4,13 @@
 # ColoringPagesDesign API JavaScript Client
 You can create printable coloring pages for kids and adults.
 
+[![npm version](https://img.shields.io/npm/v/coloring-pages-api.svg)](https://www.npmjs.com/package/coloring-pages-api)
+[![npm downloads](https://img.shields.io/npm/dm/coloring-pages-api.svg)](https://www.npmjs.com/package/coloring-pages-api)
+
+<a href="https://www.npmjs.com/package/coloring-pages-api">
+  <img src="https://nodei.co/npm/coloring-pages-api.png?downloads=true&downloadRank=true&stars=true" alt="npm package">
+</a>
+
 ## Getting Started
 
 ### 1. Create an Account
