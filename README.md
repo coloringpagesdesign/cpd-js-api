@@ -90,3 +90,7 @@ For support, contact our support team at support-api@coloringpagesdesign.com.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Climate
+
+We contribute part of our income to climate [Climate Carbon Removal](https://climate.stripe.com/bZJpoA)
