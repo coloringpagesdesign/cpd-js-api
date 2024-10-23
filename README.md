@@ -3,7 +3,6 @@
 
 # ColoringPagesDesign API JavaScript Client
 You can create printable coloring pages for kids and adults.
-A JavaScript wrapper for the ColoringPagesDesign API, providing easy access to creating coloring page designs.
 
 ## Getting Started
 
