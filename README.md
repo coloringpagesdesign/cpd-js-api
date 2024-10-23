@@ -23,11 +23,11 @@ You can create printable coloring pages for kids and adults.
 
 ### 2. Installation
 ```bash
-npm install coloringpages-api
+npm install coloring-pages-api
 ```
 or
 ```bash
-yarn add coloringpages-api
+yarn add coloring-pages-api
 ```
 
 ### 3. Basic Usage
